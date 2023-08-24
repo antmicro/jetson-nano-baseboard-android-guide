@@ -1,5 +1,9 @@
 # Using LineageOS with Jetson Nano Baseboard and Jetson TX2 NX
 
+This guide provides instructions for building and running the [LineageOS](https://lineageos.org/) Android distribution on Antmicro's open hardware [Jetson Nano Baseboard](https://github.com/antmicro/jetson-nano-baseboard) with NVIDIA Jetson TX2 NX SoM.
+
+![Photo of LineageOS running on Antmicro's Jetson Nano Baseboard](Android-on-JNB.png)
+
 ## Prepare the workspace
 
 First, initialize the workspace and install the necessary dependencies.
